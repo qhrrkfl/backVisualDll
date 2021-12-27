@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.ThemeVS2013.dll
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.ThemeVS2012.dll
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.ThemeVS2005Multithreading.dll
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.ThemeVS2003.dll
+/visual/sharedLib/WeifenLuo.WinFormsUI.Docking.dll
