@@ -102,8 +102,8 @@ namespace visual.compo
                 this.Refresh();
             }
 
-            Point ptCartisan = UTIL.spToCartisan(e.Location, cam);
-            Debug.WriteLine(string.Format("converted X : {0} y: {1}", ptCartisan.X, ptCartisan.Y));
+            //Point ptCartisan = UTIL.spToCartisan(e.Location, cam);
+            //Debug.WriteLine(string.Format("converted X : {0} y: {1}", ptCartisan.X, ptCartisan.Y));
         }
 
 
